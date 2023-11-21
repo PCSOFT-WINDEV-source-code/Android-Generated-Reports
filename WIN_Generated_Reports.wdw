@@ -1,0 +1,264 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Generated_Reports
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Generated_Reports
+ identifier : 0x2c813dd5028976f9
+ internal_properties : CAAAAAgAAABttHFG8RbOwGmuH4xtOUrxe2v5V2+Hif+yl2JMllRVfzGXvdxvVWnt1zcR8dq+I0x++Xnnwn1UPw5HGSdNW/VX7vH1WGryXjvXtRLD+iGmZE4X1C4+awyyaTxjTu0XxSPOTskk06stTge+CS8MSZBE70lqErr63/k94uO34iYyad/ZBeZesL7qcpMMWulyXAXIOUdPWvV/c005Arw+3MrQIkGxwUabM2rcTHyvU2olrJD7001LQWuWMNxqJ36Yker3z7mHvwS2XU1qvUMPhbgDeyIk6hYR93TQvv3pKqR6R4dV/7De4nqs0yi9jBShSjw4iCxuQ79j/J3vv3WvK5mc+mgfKh345XrbSIla7zwSNdVNXLWua43tnPe594X2D8eWA/s+XzL/qQvOoPSXk3mIb1g7lBINBuVxBawQKLxFDb5tw7lmQ+5Yk4ZSzNk1Tc3dhTIE4xOZ4J4tBKn9hEo0a9FfXg0zcYMVQEZKmIGd6Ijxj2gxsoE5gJD82L82xFdYsajZytnYbuircAqA0wPf+FsUO/jEJ27/MhVD+Z8CkEf/wJXo1c+JSWivW+eICNBVCRpsuX2EThDjsHHpKZw+C62phvisMpQjlZhM+6biszHSg04FNGmHVyE2qJVl9k4rW0tyWeaWYOQ9+BNLe0g8YVoSqVnO2qs+lSxP/U/+xOf/IoJbVXA2xpe9BYEz6XCctiSkB95i4M0JRsie+dQvpCOkEH2T/Br84R79Rse/KWxxsKyxtF+sPmXfPHJsqzoetoqzigE=
+ properties :
+  width : 320
+  height : 407
+  heightMin : 480
+ controls :
+  -
+    name : LAYOUT_NoName1
+    identifier : 0x2c813dd5028a76f9
+    internal_properties : CAAAAAgAAABwNyx6QC8IQQaEpLJL7dn+oVAiKw77Hm+Da2s9GMv/spyvCSm3z4xlyHPT2PwFvOho/NuaKoTyorbEqlQ2mC8pU6WPPpuqyULO05kYBsAOLXxq8aA+2BT6iQ7oT80cJ4CbtJVY5n/WuCAXo+U1kpX/WEp/wtaBmZ5KNRScRLzDo7+gSi6o1HwbqlnsxmdB7ryng1jxByFmEleMH6FxDrEYQfYCt1eC7hFKnJWv3OPrFLjMJeYek3xxHEf01CzX2vFz9UbEZFq1MPHXR+r/sWfDvlmGAB5U6Z8QEz+21N7eve0dvYffrVsnlmX3544wuaBSdYXw0HKIoHjvFL64q5XlM9FzGc76q9McxLiNcVX6/sxqDqqJtPbVJohL6Ov4dKprf77GTlQOQczawjLPqnZXdl6CUhoK/gKc0dFWTJ5ql7s+cDUK4yCmV5QTFZZmGwsEWZsfaGStRR3gOx/F7d9v/Yfh1Yibxg5SLBuopgrtnF/yKmHHvxRtb+vHty3VIVYDfi6egipDEhMOsC7mdH/8
+    properties :
+     y : -1
+     width : 320
+     height : 382
+    cells :
+     -
+       internal_properties : CAAAAAgAAAD45yDBOXOSpM5R/0dMnWLQLwJXG5uKLVoRaBoicD/Nwue3TX138jDAtrv+CYq4sHWUdo56TMMekbA0xAncwWcaZfuSYuWy4DUT/XVy6BdJOAhP+63YDTeGPZZPrM81pHXFv/rx5YtDEGCHOv1uhYBr71tJQ+lSAAQhJj8z05AQdytuk1PX
+       controls :
+        -
+          name : STC_NoName1
+          identifier : 0x2c813dd5028c76f9
+          internal_properties : CAAAAAgAAABtAOuGlqi0OwpnyHS2SkOc8C0bdAp7tTOnIyOluDyZQoneNStFB54OwXDx7E4qLuG9S7rlKVW5M9XAHRLjRAN5aWnS23WPVVOF8qEdQa0hG3eqRC2SxUcgtd7oOv6TjG6F/nwRsV8hww43B13eQyypqCLaYy/VtbvtDa4pwjqofnntjP/XsNmBDSaqUeVIAIyJOsIYHZh/g8waA/fUtQdrHMatpeELNab0d8pLdgzIdCzWcaRjjPUPiVDe11Kh+SYKHujMOyivEJ23oNsfT8aZM+9b+liMbkwxDKykKBt7o5hhxWho1z32hfwxbm/5M7eCwxjgLp0QaeEzIJwBxIrgqwApIkwnuxqong/EqCOv+GsyexPn+pg6dPb5Kr/UXAfX2QtKZNU5z6cCyTd8nMnxfr2xbbRxTgayJD2CO+7A6VTDnpcAdCH0wkwXAQ/iHZ8F+omkL9VsS2GWaQ4DIE/7q7eIcMCvFnTEuqAyU92N8gZ0x6f2WR+dq/jFvOPuXMBu3r2oDgXDSZuQzHWRvZLJZsnkHoAr8VRwqF9LPvPzroYoahCn4+UeAnRjhlZy1bNp5DecpoVSbG7fWn6E0LoJF4d6NGO7OWfkwabSFT4A1BvvFk5RPdt9nXGmi6e2zP+yLHcdPAfF+dY+hfd9e25tiWlEwzrwoFTzKcdEFAnB6bq46rBgBYG5bYNBH9+5wkn6zgXdANy43E/nyoVo67R+Rz+CKprb6e947rStoLMrdz0TKBgTKFponLTGcXhZVr7evs4JuXNdWxPPDytZUSXhi8if41Zg1NC35joKYdLG+EG+6kJ0be+hsPbZ9vPoqku6/DJ1eJVcj6U=
+          properties :
+           x : 16
+           y : 7
+           width : 288
+           height : 282
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+     -
+       internal_properties : CAAAAAgAAABSo+55+NlA/SfTm1uLP/s95PTraUfQCPonvEjwGONQ0BHskwgP4Ak7mTvSd5mtT6ZQ76grZeu8+MNNfzqVDfRvGeh4y1eiGcEEgl9Lf4JzpVRe2bWl4Gv79xwLdbIKGpo9ivaTJrKDD8gLMJBbjEocj077CzxtgDiEdSCC+sNygKX3fVSdJg==
+       controls :
+        -
+          name : BTN_Generation
+          identifier : 0x2c813dd5028e76f9
+          internal_properties : CAAAAAgAAAC+e1dauNM67vveHJHRLNh+0yLptdn09bp2VCfitnhGe5WP+GUMaR0KGpUY17EaE5Y5p5VZowmhML80vn3dd2DJe79Us1Xt2kukzmAzSb+Izm1+N1T7ecU3/B2t4ALu5UX0+kupBIeCVExJVnblpvQdMgU26AKnGAAfL5M8QSLeSrxH5Wq9l+b4UhpsT/FjDlBUR6FJPilNlpZQq7XPkqaAhAZItygw4wBpHoxMgREuVHXq1q7YYjIVKgq5jAyuWgsMwf2gLbGCRueKkMNoVbwXD+NCOh1a8r5evSY1YdoHTrDa1qzPwy0rAp+pkaqWMzJsWb8dyscgn9pDndvikNrNCnFXR4XyhMPGuwJuh1AOfKe1E3iWReWTQe6ePOhTN5XRoauCPqJKXofde2Gh0iIoqcVhkHABrIK3khwLf9BWeUxgOv8/JDX6jRr+8l2Rmt63Vd4I5Oe0OQ6NAo6+mELdkFz4CfQwQxqyggTkrKP4Ou/j7JdZCj6Z4tjFLhqjM+EARTJi/MmN9tccAIzWQcAp0kScPWIgg3h24vRTJBBgEw6cp59Vk62YCK8s3Rc9bT/wmtzsf50vqtYy112SxJU4IVyoOw2M0A0XrLfB/JRj3f49jr72uKdXXkz0TK/S3W660QUV8gIIiEilcAW+9EDhA9oIfjlHnxPXfupY5tp4SYLMLgTOhAnuXihIMwACjdy00MFsAaAlPHeUCtZ+/BzEhDgR/WKb79kgPoMoU5fwOyn+aVF/cw+fFJbmVqYFlm+PFEz1EiuLxy5bmJWqIWX6iXa0xm0+N8dBuS7323YpGqxbBEQIa1313T+WTtg60g32mDlCOrnRbLnVNxlpztkr/rIgaMq2786OaQEiuOZssY8YY9kZ4mk1Vz4MTQejex/xDnR0GuZgFdlWmk+kVtqZdZJaGL3xuZpfIUGaweBc8B45cA96HeVsuqTh5X1rP6UksOl1jPywJ/bR1M+O/GQtx5HQckChe887otv+Iy3o2xSaE/KOj7e2
+          properties :
+           x : 48
+           y : 15
+           width : 224
+           height : 48
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAABI27hBsONA3maI+bYPpCwZmMEDuJnCl5am5WKJcmea4KUd7u0m2AHgeIHihTSPnSWf4spJ4rypHpKb1jpAJXGg9ZmeRu5JR4Y6ZpIGhF++eH80KZH2FIOlNWqbrHHTn1pP67om+CrJIxF8glKVs9Mq3pLYDWzvak5LiIGyqVM29CWznS8Jl2PnKg2RqF5SuqnH8pTe0qNl7eG3nxfyoAM9jMSM3RwRElwt4FRP
+              code : |1+
+               
+               	//Declaration of fonts
+               	INTERNAL PROCEDURE iDeclareFonts()
+               	iCreateFont(1,18,iBold,"Trebuchet MS",RGB(32,33,36))
+               	iCreateFont(2,13,iBold,"Trebuchet MS",RGB(32,33,36))
+               	iCreateFont(3,9,iNormal,"Trebuchet MS",RGB(32,33,36))
+               	iCreateFont(4,8,iNormal,"Arial",RGB(48,48,48))
+               	end
+               
+               	//Print the START_OF_DOCUMENT block
+               	INTERNAL PROCEDURE iPrint_START_OF_DOCUMENT()
+               	X0,Y0 are real = (iXPos(), iYPos())
+               	//Print the DOCTITLE control
+               	iXPos(X0 + 64.573000);iYPos(Y0 + 0.000000)
+               	iFont(1)
+               	iPrintZone("Products",iXPos()+1.000000,iYPos()+1.000000,iXPos()+39.854000,iYPos()+8.701000,iCenterH+iCenterV)
+               	//Print the DATESYS control
+               	iXPos(X0 + 132.224000);iYPos(Y0 + 0.000000)
+               	iPrintZone(DateToString(DateSys(), "MM/DD/YYYY"),iXPos(),iYPos()+1.000000,iXPos()+36.815000,iYPos()+8.701000,iRight+iCenterV)
+               	//Print the IMG_Logo control
+               	iXPos(X0 + 0.000000);iYPos(Y0 + 0.000000)
+               	iPrintImage("Material Design Blue 2_Logo.png", iXPos(),iYPos(),iXPos()+34.769000,iYPos()+20.217000,iNormalDisplay)
+               	iXPos(X0);iYPos(Y0)
+               	end
+               
+               	//Print the PAGE_HEADER block
+               	INTERNAL PROCEDURE iPrint_PAGE_HEADER()
+               	X0,Y0 are real = (iXPos(), iYPos())
+               	//Print the PAGETITLE control
+               	iXPos(X0 + 4.057000);iYPos(Y0 + 2.999000)
+               	iFont(2)
+               	iPrintZone("Products",iXPos()+1.000000,iYPos()+1.000000,iXPos()+29.800000,iYPos()+6.232000,iLeft+iCenterV)
+               	iXPos(X0);iYPos(Y0)
+               	end
+               
+               	//Print the BODY block
+               	INTERNAL PROCEDURE iPrint_BODY()
+               		for each Product 
+               		X0,Y0 are real = (iXPos(), iYPos())
+               		//Print the STC_Name1 control
+               		iXPos(X0 + 27.693000);iYPos(Y0 + 6.000000)
+               		iFont(3)
+               		iPrintZone(Product.ProductName,iXPos()+1.000000,iYPos()+1.000000,iXPos()+141.278000,iYPos()+4.997000,iLeft+iCenterV)
+               		//Print the STC_Description1 control
+               		iXPos(X0 + 27.693000);iYPos(Y0 + 13.112000)
+               		iFont(3)
+               		iPrintZone(Product.Description,iXPos()+1.000000,iYPos()+1.000000,iXPos()+141.278000,iYPos()+4.998000,iLeft+iCenterV)
+               		//Print the STC_Price1 control
+               		iXPos(X0 + 144.200000);iYPos(Y0 + 19.170000)
+               		iFont(3)
+               		iPrintZone(NumToString(Product.Price, ".2f") + "$",iXPos(),iYPos()+1.000000,iXPos()+24.800000,iYPos()+5.085000,iRight+iCenterV)
+               		//Print the IMG_Photo control
+               		iXPos(X0 + 0.000000);iYPos(Y0 + 6.000000)
+               		iPrintImage(Product.Photo, iXPos(),iYPos(),iXPos()+23.000000,iYPos()+20.000000,iHomoCenteredDisplay)
+               		//Print the STC_Quantity control
+               		iXPos(X0 + 27.693000);iYPos(Y0 + 19.170000)
+               		iFont(3)
+               		iPrintZone("Quantity :",iXPos()+1.000000,iYPos()+1.000000,iXPos()+21.000000,iYPos()+5.085000,iLeft+iCenterV)
+               		//Print the STC_Quantity1 control
+               		iXPos(X0 + 50.693000);iYPos(Y0 + 19.170000)
+               		iFont(3)
+               		iPrintZone(Product.Quantity,iXPos()+1.000000,iYPos()+1.000000,iXPos()+24.800000,iYPos()+5.085000,iLeft+iCenterV)
+               		//Print the STC_Bar_code1 control
+               		iXPos(X0 + 110.528000);iYPos(Y0 + 5.997000)
+               		iFont(3)
+               		iPrintZone("Bar code: " + Product.Bar_Code,iXPos(),iYPos()+1.000000,iXPos()+58.511000,iYPos()+4.998000,iRight+iCenterV)
+               		iXPos(X0);iYPos(Y0)
+               		
+               		iXPos(X0);iYPos(Y0 + 25)
+               		end
+               	
+               	end
+               
+               	//Print the END_OF_DOCUMENT block
+               	INTERNAL PROCEDURE iPrint_END_OF_DOCUMENT()
+               	X0,Y0 are real = (iXPos(), iYPos())
+               	//Print the PoweredWx control
+               	iXPos(X0 + 110.440000);iYPos(Y0 + 0.000000)
+               	iFont(4)
+               	iPrintZone("Developed with WINDEV Mobile",iXPos(),iYPos()+1.000000,iXPos()+58.422000,iYPos()+4.556000,iRight+iCenterV)
+               	iXPos(X0);iYPos(Y0)
+               	end
+               
+               
+               //Print
+               sPDF is string
+               if SysStatusExternalStorage(1) = sseAvailable then
+               	sPDF = SysDirExternalStorage(1, sseAppDocument)
+               else
+               	sPDF = fCurrentDir()
+               end
+               sPDF += [fSep] + "RPT_Product.pdf"
+               iDestination(iGenericPDF, sPDF)
+               
+               iParameter(iPaperSize,iPaperSize_A4)
+               iParameter(iOrientation,iOrientation_Portrait)
+               iDeclareFonts()
+               //Position on margins
+               iXPos(20.000000);iYPos(20.000000)
+               iPrint_START_OF_DOCUMENT()
+               iYPos(iYPos() + 20.217000)
+               iPrint_PAGE_HEADER()
+               iYPos(iYPos() + 12.170000)
+               iPrint_BODY()
+               iYPos(iYPos() + 52.424000)
+               iPrint_END_OF_DOCUMENT()
+               iYPos(iYPos() + 7.085000)
+               
+               iEndPrinting()
+               ShellExecute(sPDF)
+              type : 18
+            -
+              type : 161
+              enabled : false
+    type : 126
+    controls : []
+    code_elements :
+     type_code : 151
+     p_codes : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2c813dd5028f76f9
+  internal_properties : CAAAAAgAAACmmLaNF+0irn6Y3sweqosPdUXCgB/jUg83vpA7Mc6ZtrnTQTf7sLDlJB9hQYUlGs5gTjL3AYZsVye4lYlzASfSyRzDjM9aYScm315MqhgGy3NWQVU9oIkAEncr08y5f2SIIwuxbOC1r27btjEQpaAKw0aqLeQaZo38+liz0CP5Tzu6XglfflvkpKPaK8cK3gtmYRY55/hI/GTfRAqo3MyGPNKvh64kkP0+lLY6nPPsCuZ3mXWv8vWITPJhbyQCSbiBTcFqgJhX0R7XM7pcPDQLXrCPFoxzIkJXzGnbP8IjIyeCl+1HrXT3qe9I9Bl90U+6L3yZnbhMQEPwMV2jb7DovN1GoP5S6IoOIzTnrDLqaNj2NPWKdGpmtI2t35gr17DPSZk7dcE8VoIus0VB+ERtrbU=
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      Procédure MyWindow()
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x1bf28dfb0048db19
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
